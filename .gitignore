@@ -1,0 +1,15 @@
+# Office 临时/锁定文件（打开文档时自动生成）
+~$*
+*.tmp
+
+# 操作系统杂项文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 依赖安装目录
+node_modules/
+
+# 构建产物
+dist/
+build/
